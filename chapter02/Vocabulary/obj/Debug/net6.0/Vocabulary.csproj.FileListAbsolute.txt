@@ -1,0 +1,15 @@
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.AssemblyReference.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfoInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.AssemblyInfo.cs
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.csproj.CoreCompileInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.exe
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.deps.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.runtimeconfig.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\bin\Debug\net6.0\Vocabulary.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\refint\Vocabulary.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\Vocabulary.genruntimeconfig.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Vocabulary\obj\Debug\net6.0\ref\Vocabulary.dll
