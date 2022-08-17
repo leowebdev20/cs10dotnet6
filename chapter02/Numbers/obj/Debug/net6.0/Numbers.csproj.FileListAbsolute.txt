@@ -1,0 +1,15 @@
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\Numbers.AssemblyInfo.cs
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\bin\Debug\net6.0\Numbers.exe
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\bin\Debug\net6.0\Numbers.deps.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\bin\Debug\net6.0\Numbers.runtimeconfig.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\bin\Debug\net6.0\Numbers.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\bin\Debug\net6.0\Numbers.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\Numbers.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\refint\Numbers.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\Numbers.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\Numbers.genruntimeconfig.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter02\Numbers\obj\Debug\net6.0\ref\Numbers.dll
