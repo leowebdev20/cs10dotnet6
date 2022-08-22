@@ -14,6 +14,9 @@
 		},
 		{
 			"path": "Formatting"
+		},
+		{
+			"path": "Arguments"
 		}
 	]
 }
