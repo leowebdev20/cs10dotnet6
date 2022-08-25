@@ -1,0 +1,15 @@
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\bin\Debug\net6.0\Iterations.exe
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\bin\Debug\net6.0\Iterations.deps.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\bin\Debug\net6.0\Iterations.runtimeconfig.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\bin\Debug\net6.0\Iterations.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\bin\Debug\net6.0\Iterations.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\Iterations.csproj.AssemblyReference.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\Iterations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\Iterations.AssemblyInfoInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\Iterations.AssemblyInfo.cs
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\Iterations.csproj.CoreCompileInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\Iterations.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\refint\Iterations.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\Iterations.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\Iterations.genruntimeconfig.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\Iterations\obj\Debug\net6.0\ref\Iterations.dll

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "WritingFunctions"
+		},
+		{
+			"path": "Debugging"
+		}
+	],
+	"settings": {
+		"editor.formatOnType": true
+	}
+}

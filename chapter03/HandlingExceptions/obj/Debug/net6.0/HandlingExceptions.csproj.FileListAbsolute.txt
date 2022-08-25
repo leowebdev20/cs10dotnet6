@@ -1,0 +1,15 @@
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.exe
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.deps.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.runtimeconfig.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\bin\Debug\net6.0\HandlingExceptions.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.AssemblyReference.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfoInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.AssemblyInfo.cs
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\refint\HandlingExceptions.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\HandlingExceptions.genruntimeconfig.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter03\HandlingExceptions\obj\Debug\net6.0\ref\HandlingExceptions.dll

@@ -2,6 +2,18 @@
 	"folders": [
 		{
 			"path": "Operators"
+		},
+		{
+			"path": "Iterations"
+		},
+		{
+			"path": "HandlingExceptions"
+		},
+		{
+			"path": "CheckOverflow"
+		},
+		{
+			"path": "FizzBuzz"
 		}
 	]
 }
