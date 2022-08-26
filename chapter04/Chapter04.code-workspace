@@ -5,6 +5,15 @@
 		},
 		{
 			"path": "Debugging"
+		},
+		{
+			"path": "Instrumenting"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "UnitTests"
 		}
 	],
 	"settings": {
