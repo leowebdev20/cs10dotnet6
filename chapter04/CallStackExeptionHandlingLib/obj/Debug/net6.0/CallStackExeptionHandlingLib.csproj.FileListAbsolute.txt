@@ -1,0 +1,12 @@
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\bin\Debug\net6.0\CallStackExeptionHandlingLib.deps.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\bin\Debug\net6.0\CallStackExeptionHandlingLib.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\bin\Debug\net6.0\CallStackExeptionHandlingLib.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\CallStackExeptionHandlingLib.csproj.AssemblyReference.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\CallStackExeptionHandlingLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\CallStackExeptionHandlingLib.AssemblyInfoInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\CallStackExeptionHandlingLib.AssemblyInfo.cs
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\CallStackExeptionHandlingLib.csproj.CoreCompileInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\CallStackExeptionHandlingLib.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\refint\CallStackExeptionHandlingLib.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\CallStackExeptionHandlingLib.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter04\CallStackExeptionHandlingLib\obj\Debug\net6.0\ref\CallStackExeptionHandlingLib.dll
