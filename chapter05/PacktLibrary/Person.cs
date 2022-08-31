@@ -5,7 +5,7 @@ using System.Collections.Generic; // List<T>
 namespace Packt.Shared
 {
     // public class Person : System.Object
-    public class Person : object
+    public partial class Person : object
     {
         // fields
         public string Name;
@@ -45,6 +45,38 @@ namespace Packt.Shared
         public string GetOrigin()
         {
             return $"{Name} was born on {HomePlanet}!";
+        }
+
+        public (string, int) GetFruit()
+        {
+            return ("Apples", 5);
+        }
+        public (string Name, int Number) GetNamedFruit()
+        {
+            return ("Apples", 5);
+        }
+        // deconstructors
+        public void Deconstruct(out string name, out DateTime dob)
+        {
+            name = Name;
+            dob = DateOfBirth;
+        }
+
+        public string SayHello()
+        {
+            return $"{Name} says Hello";
+        }
+        public string SayHelloTo(string name)
+        {
+            return $"{Name} says Hello to {name}!";
+        }
+
+        public void PassingParameters(int x, ref int y, out int z)
+        {
+            z = 99;
+            x++;
+            y++;
+            z++;
         }
 
     }

@@ -1,0 +1,12 @@
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.deps.json
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\bin\Debug\net6.0\PacktLibraryModern.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.csproj.AssemblyReference.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.AssemblyInfoInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.AssemblyInfo.cs
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.csproj.CoreCompileInputs.cache
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\refint\PacktLibraryModern.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\PacktLibraryModern.pdb
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter05\PacktLibraryModern\obj\Debug\net6.0\ref\PacktLibraryModern.dll
