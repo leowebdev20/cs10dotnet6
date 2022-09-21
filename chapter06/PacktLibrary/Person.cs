@@ -34,4 +34,46 @@ public class Person
     {
         return Procreate(this, partner);
     }
+
+    //operator to multiply
+    public static Person operator *(Person p1, Person p2)
+    {
+        return Person.Procreate(p1, p2);
+    }
+
+    //method with a local Function
+    public static int Factorial(int number)
+    {
+        if (number < 0)
+        {
+            throw new ArgumentException($"{nameof(number)} cannot be less than zero");
+        }
+        return localFactorial(number);
+
+        int localFactorial(int localNumber) //local function
+        {
+            if (localNumber < 1) return 1;
+            return localNumber * localFactorial(localNumber - 1);
+        }
+    }
+
+    //delegate field 
+    public EventHandler? Shout;
+
+    //data field
+    public int AngerLevel;
+
+    //method
+    public void Poke()
+    {
+        AngerLevel++;
+        if (AngerLevel >= 3)
+        {
+            if (Shout != null)
+            {
+                Shout(this, EventArgs.Empty);
+                //or you can use Shout?.Invoke(this, EventArgs.Empty);
+            }
+        }
+    }
 }

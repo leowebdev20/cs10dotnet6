@@ -22,7 +22,10 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://172.16.0.172/nuget": {},
+          "http://192.168.254.149/AmbienteNuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://devops.codearchitects.com:444/Code%20Architects/_packaging/terranova-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

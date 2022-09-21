@@ -12,7 +12,7 @@ C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\n
 C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CoreCompileInputs.cache
 C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.csproj.CopyComplete
 C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.dll
-C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\net6.0\refint\PeopleApp.dll
 C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.pdb
 C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\net6.0\PeopleApp.genruntimeconfig.cache
 C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\net6.0\ref\PeopleApp.dll
+C:\Users\seren\Documents\lavori\asptutorial\Code\chapter06\PeopleApp\obj\Debug\net6.0\refint\PeopleApp.dll
