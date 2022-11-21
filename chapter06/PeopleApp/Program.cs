@@ -34,8 +34,44 @@ static void Harry_Shout(object? sender, EventArgs e)
     Person p = (Person)sender;
     WriteLine($"{p.Name} is this angry: {p.AngerLevel}");
 }
-harry.Shout = Harry_Shout;
+harry.Shout += Harry_Shout;
 harry.Poke();
 harry.Poke();
 harry.Poke();
 harry.Poke();
+
+
+System.Collections.Hashtable lookupObject = new();
+lookupObject.Add(key: 1, value: "Alpha");
+lookupObject.Add(key: 2, value: "Beta");
+lookupObject.Add(key: 3, value: "Gamma");
+lookupObject.Add(key: harry, value: "Delta");
+
+int key = 2;
+WriteLine($"Key {key} has value {lookupObject[key]}");
+WriteLine($"Key {harry} has value {lookupObject[harry]}");
+
+Dictionary<int, string> lookupIntString = new();
+lookupIntString.Add(key: 1, value: "Alpha");
+
+Person[] people =
+{
+    new() {Name = "Simon"},
+    new() { Name = "Jen" },
+    new() { Name = "Jed" },
+    new() { Name = "Jef" },
+};
+foreach (Person p in people)
+{
+    // WriteLine($"Person {p.Name}");
+}
+Array.Sort(people);
+foreach (Person p in people)
+{
+    // WriteLine($"Person {p.Name}");
+}
+Array.Sort(people, new PersonComparer());
+foreach (Person p in people)
+{
+    // WriteLine($"Person {p.Name}");
+}

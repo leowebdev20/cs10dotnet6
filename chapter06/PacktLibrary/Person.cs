@@ -2,7 +2,7 @@
 
 namespace Packt.Shared;
 
-public class Person
+public class Person : object, IComparable<Person>
 {
     //fields 
     public string? Name;
@@ -58,7 +58,7 @@ public class Person
     }
 
     //delegate field 
-    public EventHandler? Shout;
+    public event EventHandler? Shout;
 
     //data field
     public int AngerLevel;
@@ -75,5 +75,11 @@ public class Person
                 //or you can use Shout?.Invoke(this, EventArgs.Empty);
             }
         }
+    }
+
+    public int CompareTo(Person? other)
+    {
+        if (Name is null) return 0;
+        return Name.CompareTo(other?.Name);
     }
 }
